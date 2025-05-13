@@ -1,5 +1,7 @@
 package trabajo_practico_1;
 
+//Cargar un vector con “n” notas e indicar la cantidad de aprobados (Notas mayores o
+//iguales a 6), la cantidad de desaprobados (Notas menores a 6).
 
 import java.util.Scanner;
 
