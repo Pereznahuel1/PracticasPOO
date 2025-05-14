@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio5 {
 
-    public static void main(String[] args) {
+    public static void resolver() {
         Scanner scanner = new Scanner(System.in);
         final int TOTAL_CLIENTES = 5;
 

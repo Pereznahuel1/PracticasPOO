@@ -8,5 +8,8 @@ public class Main {
        // Ejercicio2.resolver();
        // Ejercicio3.resolver();
        // Ejercicio4.resolver();
+       // Ejercicio5.resolver();
+       // Ejercicio6.resolver();
+       // Ejercicio7.resolver();
     }
 }
